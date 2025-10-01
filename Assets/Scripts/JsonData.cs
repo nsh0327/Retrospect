@@ -5,6 +5,7 @@ using UnityEngine;
 // 이 파일은 TextItem 및 GameTextData 클래스가 다른 파일(예: TextModels.cs)에 
 // 올바르게 정의되어 있음을 전제로 합니다.
 // 히히 
+//으흐흐
 public class JsonData : MonoBehaviour
 {
     // ⭐ 1. 싱글톤 인스턴스를 private static으로 변경
