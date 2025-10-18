@@ -89,5 +89,4 @@ public class JsonData : MonoBehaviour
         }
     }
 
-    // Start, Update 함수는 필요 없으므로 그대로 둡니다.
 }
