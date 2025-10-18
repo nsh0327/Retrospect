@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-//으흐흐
 
 // 이 파일은 TextItem 및 GameTextData 클래스가 다른 파일(예: TextModels.cs)에 
 // 올바르게 정의되어 있음을 전제로 합니다.
@@ -90,4 +89,5 @@ public class JsonData : MonoBehaviour
         }
     }
 
+    // Start, Update 함수는 필요 없으므로 그대로 둡니다.
 }
